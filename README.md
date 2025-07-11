@@ -30,7 +30,7 @@
 ### 📸 Screenshot (建议添加图片)
 
 ```
-![Color Mixer Preview](./screenshot-color-mixer.png)
+![Color Mixer Preview](screenshot-color-mixer.png)
 ```
 
 ------
@@ -66,7 +66,7 @@ If you like this project:
 
 Got feedback or collaboration ideas?
 
-> 📧 Email: contact@whatcolormake.com
+> 📧 Email: tongai2024@gmail.com
 >  💡 Let's make color theory more accessible, fun, and visual!
 
 ------
